@@ -1,0 +1,14 @@
+{
+  "name": "server",
+  "version": "0.0.1",
+  "description": "my first server",
+  "keywords": ["node.js","socket","javascript","html"],
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.1",
+    "http": "0.0.1-security",
+    "socket.io": "^4.5.2"
+  }
+}
